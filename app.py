@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Lù Seo Sần - Trường PTDTBT Tiểu học Bản Ngò - ĐT: 097 1986 343</p>
+    <p>Tác giả: Tráng Thị Hoa - Trường Tiểu học Thổ Bình - ĐT: 0839047545</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -282,10 +282,10 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
                 | HOẠT ĐỘNG CỦA GIÁO VIÊN | HOẠT ĐỘNG CỦA HỌC SINH |
                 |---|---|
-                | **1. Hoạt động 1 - Khởi động:**<br>- GV tổ chức... | - HS tham gia... |
-                | **2. Hoạt động 2 - Hình thành kiến thức mới:**<br>- GV hướng dẫn... | - HS quan sát... |
-                | **3. Hoạt động 3 - Thực hành - luyện tập:**<br>- GV yêu cầu... | - HS thực hiện... |
-                | **4. Hoạt động 4 - Vận dụng:**<br>- GV gợi mở... | - HS chia sẻ... |
+                | **1. Hoạt động 1 - Khởi động:**<br>- Tổ chức... | - Tham gia... |
+                | **2. Hoạt động 2 - Hình thành kiến thức mới:**<br>- Hướng dẫn... | - Quan sát... |
+                | **3. Hoạt động 3 - Thực hành - luyện tập:**<br>- Yêu cầu... | - Thực hiện... |
+                | **4. Hoạt động 4 - Vận dụng:**<br>- Gợi mở... | - Chia sẻ... |
 
                 YÊU CẦU CHI TIẾT CHO TIẾN TRÌNH DẠY HỌC:
                 - Cần chi tiết cụ thể (đặc biệt là Hoạt động của học sinh).
